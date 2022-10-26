@@ -1,6 +1,6 @@
 # Mexico_City_Realstate_Price_prediction
 
-This project is tries to solve onne of the classical broblems in machinelearning which is Regression.
+This project is tries to solve one of the classical broblems in machinelearning which is Regression.
 our dataset is Mexico_City_Realstate_Price collected for a long time.
 even though we have a lot of features in our dataset i try to clean it so that only important feratures are used for model development.
 
